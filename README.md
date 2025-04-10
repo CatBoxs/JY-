@@ -1,4 +1,4 @@
-<p align="center">🕊️和平鸽</p>
+<p align="center">🕊️JY尘</p>
 <h1 align="center"> ✯ 一个影视接口 ✯ </h1>
 <h3 align="center">🔕 永久免费 完整开源 不断完善 支持IPv4/IPv6双栈访问 🔕</h3>
 
